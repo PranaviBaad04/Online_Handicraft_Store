@@ -159,17 +159,6 @@ MySQL Database
 1. User selects COD.
 2. Order is placed directly.
 3. Seller processes and confirms the order.
-
----
-
-    ↓
-Database Validation
-    ↓
-JWT Token Generation
-    ↓
-Response to Frontend
-
-
 ---
 
 # 🗄️ Database Schema
