@@ -278,9 +278,3 @@ The system automatically:
 
 **Pranavi Baad**
 **Github:https://github.com/PranaviBaad04/Online_Handicraft_Store**
-
-
-
-# 📄 License
-
-This project is developed for educational and learning purposes.
